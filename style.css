@@ -1,0 +1,78 @@
+.logo {
+    border: 3px double black;
+    display: block;
+    margin: 0 auto;
+    width: 1500px;
+    height: 272px;
+    background-image: url(img/Баннер.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.body {
+    border: 3px double black;
+}
+
+.menu {
+    border: 3px double black;
+}
+
+.nav-1 {
+    border: 3px double black;
+}
+
+.nav-2 {
+    border: 3px double black;
+}
+
+.nav-3 {
+    border: 3px double black;
+}
+
+.nav-4 {
+    border: 3px double black;
+}
+
+.nav-5 {
+    border: 3px double black;
+}
+
+.glav {
+    border: 3px double black;
+}
+
+.vse {
+    border: 3px double black;
+}
+
+.vsee {
+    border: 3px double black;
+}
+
+.musik {
+    border: 3px double black;
+}
+
+.txtmv {
+    border: 3px double black;
+}
+
+.audio {
+    border: 3px double black;
+}
+
+.fotr {
+    border: 3px double black;
+}
+
+.fotrtxt {
+    border: 3px double black;
+}
+
+.mailvk {
+    border: 3px double black;
+}
+
+.mail {
+    border: 3px double black;
+}
